@@ -14,26 +14,25 @@ Take a screenshot of the transactions. Crop it down to the list of transactions.
 Use app to load the screenshoot of the transaction
 
 ![Add Button](1.png)
-Click on the right most button
 
 ![Load Screenshot](2.png)
 
-## Add button
-![Image 3](3.png)
+## Image loaded
+Image is loaded and will be processed to converted in to text and parsed into transaction list
 
-## Select image
 ![Image 4](4.png)
 
-## Image loaded
+## View as transaction list
+
 ![Image 5](5.png)
 
-## Transaction view
+## Share
 ![Image 6](6.png)
 
 ## Share 
 ![Image 7](7.png)
 
-## Share
+## Share 2
 ![Image 8](8.png)
 
 ## Menu
