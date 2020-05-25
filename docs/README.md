@@ -9,16 +9,14 @@ To use the app
 ## Take a screenshot
 Take a screenshot of the transactions. Crop it down to the list of transactions. Best to exclude the logo and the right arrow on the right side.
 
-![Crop Example](crop.jpg)
+![Crop Example](crop.png)
 ## Load image
 Use app to load the screenshoot of the transaction
 
+![Add Button](1.png)
+Click on the right most button
+
 ![Load Screenshot](2.png)
-
-## Image view
-![Image 1](1.png)
-
-## Add button
 
 ## Add button
 ![Image 3](3.png)
