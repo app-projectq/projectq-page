@@ -27,13 +27,10 @@ Once the screenshot is loaded, It will be processed and converted in to text. Th
 ![Screenshot 5](5.png)
 
 ### Share
+You can share the transaction list as QFX file 
+  * send as attachement to email
+  * save to file
+  * AirDrop to your desktop 
+
 ![Screenshot 51](51.png)
 
-### Share 
-![Screenshot 7](7.png)
-
-### Share 2
-![Screenshot 8](8.png)
-
-### Menu
-![Screenshot 9](9.png)
