@@ -7,7 +7,7 @@ In just a few steps, you will be able to import your Apple Card transactions int
 To use the app
 
 ## Take a screenshot
-Take a screenshot of the transactions. Crop it down to the list of transactions. Best to exclude the logo and the right arrow on the right side.
+Take a screenshot of the transactions. Crop it down to the list of transactions. Best to exclude the logo on the left side and the right arrow on the right side.
 
 ![Crop Example](crop.png)
 ## Load image
