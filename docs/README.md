@@ -5,16 +5,20 @@ This app makes it possible for Apple Card owners to generate on-demand QFX file 
 In just a few steps, you will be able to import your Apple Card transactions into your personal finance software such as Quicken. You can do this as soon as the transaction shows up in your phone Wallet. No longer you have to wait for the end-of-the-month statement.
 
 To use the app
-* Take a screenshot of the transactions. Crop it down to the list of transactions. Best to exclude the logo and the right arrow on the right side.
+
+## Take a screenshot
+Take a screenshot of the transactions. Crop it down to the list of transactions. Best to exclude the logo and the right arrow on the right side.
 
 ![Crop Example](crop.jpg)
+## Load image
+Use app to load the screenshoot of the transaction
 
+![Load Screenshot](2.png)
 
 ## Image view
 ![Image 1](1.png)
 
 ## Add button
-![Image 2](2.png)
 
 ## Add button
 ![Image 3](3.png)
