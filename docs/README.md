@@ -9,22 +9,22 @@ In just a few steps, you will be able to import your Apple Card transactions int
 ### Take a screenshot
 Take a screenshot of the transactions. Crop it down to the list of transactions. Best to exclude the logo on the left side and the right arrow on the right side.
 
-![Crop Example](crop.png)
+![Crop Example](media/crop.png)
 ### Load screenshot
 Open app and load the screenshoot of the transactions.
 
-![Add Button](1.png)
+![Add Button](media/1.png)
 
-![Load Screenshot](2.png)
+![Load Screenshot](media/2.png)
 
 ### Screenshot loaded
 Once the screenshot is loaded, It will be processed and converted in to text. Then it will be parsed into a transaction list.
 
-![Screenshot 4](4.png)
+![Screenshot 4](media/4.png)
 
 ### View as transaction list
 
-![Screenshot 5](5.png)
+![Screenshot 5](media/5.png)
 
 ### Share
 You can share the transaction list as QFX file 
@@ -32,7 +32,7 @@ You can share the transaction list as QFX file
   * save to file
   * AirDrop to your desktop 
 
-![Screenshot 51](51.png)
+![Screenshot 51](media/51.png)
 
 ## Tips
 
@@ -44,5 +44,5 @@ transaction might have incorrect information.
 * If the app has problem recognizing some of the texts, increase screen brightness when taking the screenshot.
 * If there is a letter (D) next to the date. That means the date was derived from text string as such as '2 hours ago' 
 or 'Wednesday'. In such case, the date might be different depending on when you generate the OFX file. 
-![Date](date.png)
+![Date](media/date.png)
 
