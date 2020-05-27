@@ -1,6 +1,7 @@
-# TransactQ - On-demand Apple Card transactions to QFX converter
+# Welcome to TransactQ
+### On demand Apple Card transactions to QFX converter
 
-This app makes it possible for Apple Card owners to generate an on-demand QFX file for their transactions. 
+TransactQ makes it possible for Apple Card owners to generate an on demand QFX file for their transactions. 
 
 In just a few steps, you will be able to import your Apple Card transactions into your personal finance software such as Quicken. You can do this as soon as the transaction shows up in your phone Wallet. No longer you have to wait for the end-of-the-month statement.
 
