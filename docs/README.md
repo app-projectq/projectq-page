@@ -16,6 +16,7 @@
 
 We are currently accepting Beta testers. 
 Qualifying Beta testers must
+* have an iOS phone running iOS 13 or above 
 * Have an Apple Card
 * Using a personal finance software that can import QFX/OFX/QBO file (Quicken, Quickbook, Moneydance ...)
 * Willing to provide feedback during the beta testing cycle
