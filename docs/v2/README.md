@@ -53,9 +53,9 @@ Q. **Why some transactions are not selected for exported to QFX**?
 
 A. Transactions with 'Pending' are not selected because they are likely to be changed again. Just wait until those transactions are no longer 'Pending'. Also transactions with errors (you will see a small yellow 'T' to indicate error in the text portion) are not selected.
 
-## View
+## Views
 
-### Home
+### > Home
 Home page. From here you can
 * Click on the (+) button to open another menu
   * to open the Wallet app
@@ -63,25 +63,25 @@ Home page. From here you can
   
 ![home](home.png)
 
-### Popup
+### > Popup
 * Click on the left button to open the Wallet app
 * Click on the right button to pick a screenshot from your Photo
 
 ![home_popup](home_popup.png)
 
-### Image
+### > Image
 The screenshot you open. Once a new screenshot is opened, this app will attempt to convert the screenshot into a list of OFX transactions. Click on the "List" icon to see the OFX transactions list.
 
 ![image](image.png)
 
-### List
+### > List
 A list of OFX transactions converted from your screenshot. From here you can
 * Select  (checkbox) transactions to be exported.
 * Share the OFX list as QFX file.
 
 ![list](list.png)
 
-### Share
+### > Share
 Standard iOS Share screen where you can
 * AirDrop the QFX file
 * Save as a file
@@ -89,7 +89,7 @@ Standard iOS Share screen where you can
 
 ![share](share.png)
 
-## About us
+## > About us
 Hi there,
 
 We are a team of three: father (Hung), daughter (Amanda) and son (Chris).
