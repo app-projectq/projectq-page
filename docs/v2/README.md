@@ -7,7 +7,7 @@ This app makes it possible for Apple Card owners to generate an QFX file of thei
 A typical workflow (one that I use on a daily basis)
 
 1. Open Wallet, take a screenshot of recent transactions.
-2. Share the image with 'TransactQ' app
+2. Share the screenshot with 'TransactQ' app
 3. Open 'TransactQ' app
 4. Share the QFX file 
 	1. to AirDrop
@@ -18,14 +18,14 @@ A typical workflow (one that I use on a daily basis)
 1. Open Wallet. Scroll down to the list of "Latest Transactions"
 2. Take a screenshot
 3. Crop the view to the list of transactions that you want to export. **Tip**: Make sure to crop out the logo's on the left side and the '>' on the right side.
-4. Select to "Share" the image using the "square-up-arrow button" on the top right corner.
+4. Select to "Share" the screenshot using the "square-up-arrow button" on the top right corner.
   1. Find the 'TransactQ' icon in the second row (you might need to scroll right to find more icons). 
   2. Click on the 'TransactQ' icon). 
   3. Click on 'Post' to share. 
   4. Click on 'Done' and then 'Delete Screenshot'
 5. Open 'TransactQ'
-6. You should see image you just shared.
-7. Click on the List icon on the bottom right to see the list of transactions (converted from the image).
+6. You should see screenshot you just shared.
+7. Click on the List icon on the bottom right to see the list of transactions (converted from the screenshot).
 8. Select to "Share" the list as an QFX file using the "square-up-arrow button" on the top right corner.
 9. Choose how you want to share. I usually just AirDrop it to my laptop from which I can import directly into Quicken.
 
@@ -34,7 +34,7 @@ A typical workflow (one that I use on a daily basis)
 * Make a good screenshoot
   * crop out the logo's on the left side and the '>' on the right side of the list
   * screen constrast is not too low. Increase the screen constrast value if it appears the app failed to convert text correctly.
-* Use your screenshot right away. While you can take a screenshot and open later, it is best to take a screenshot and use it right away. The Wallet "Latest Transactions" might have relative date/time text such as "2 hours ago". Those texts will have value relative to when you open the image rather than at time of screenshot.
+* Use your screenshot right away. While you can take a screenshot and open later, it is best to take a screenshot and use it right away. The Wallet "Latest Transactions" might have relative date/time text such as "2 hours ago". Those texts will have value relative to when you open the screenshot rather than at time of screenshot.
  
 ## FAQ
 Q. **I thought Apple Wallet can export QFX file**.
@@ -59,28 +59,35 @@ A. Transactions with 'Pending' are not selected because they are likely to be ch
 Home page. From here you can
 * Click on the (+) button to open another menu
   * to open the Wallet app
-  * or to pick an image from your Photo
+  * or to pick a screenshot from your Photo
   
 ![home](home.png)
 
 ### Popup
 * Click on the left button to open the Wallet app
-* Click on the right button to pick an image from your Photo
+* Click on the right button to pick a screenshot from your Photo
 
 ![home_popup](home_popup.png)
 
 ### Image
-This is the image/screenshot you open. Once a new image/screenshot is opened, this app will attempt to convert the image into into a list of OFX transactions. Click on the "List" icon to see the OFX transactions list.
+The screenshot you open. Once a new screenshot is opened, this app will attempt to convert the screenshot into a list of OFX transactions. Click on the "List" icon to see the OFX transactions list.
 
 ![image](image.png)
 
 ### List
+A list of OFX transactions converted from your screenshot. From here you can
+* Select  (checkbox) transactions to be exported.
+* Share the OFX list as QFX file.
+
 ![list](list.png)
-----
 
 ### Share
+Standard iOS Share screen where you can
+* AirDrop the QFX file
+* Save as a file
+* Send as an attachment in email
+
 ![share](share.png)
-----
 
 ## About us
 Hi there,
