@@ -13,6 +13,7 @@
 		+ [> List](#-list)
 		+ [> Share](#-share)
 	* [About us](#about-us)
+	* [Privacy Policy](#privacy-policy)
 
 We are currently accepting Beta testers. 
 Qualifying Beta testers must
@@ -137,3 +138,37 @@ Hung/Amanda/Chris
 
 ![about](media/about.jpg)
 
+## Privacy Policy
+TransactQ (“we” or “us” or “our”) respects the privacy of our users (“user” or “you”). This
+Privacy Policy explains how we collect, use, disclose, and safeguard your information when
+you use our mobile application (the “App”) or our website https://app-projectq.github.io/projectq-page/
+(collectively, the “Site”). Please read this Privacy Policy carefully. IF YOU
+DO NOT AGREE WITH THE TERMS OF THIS PRIVACY POLICY, PLEASE DO NOT ACCESS
+THE APP.
+
+We reserve the right to make changes to this Privacy Policy at any time and for any reason.
+
+We do not collect information about you. The screenshot you open in our app is kept locally on your device. The generated QFX file is also kept locally on your device.
+
+We may request access or permission to certain features from your mobile device, including
+your mobile photo, and other features. If you wish to change our access or
+permissions, you may do so in your device’s settings.
+
+Our app is not intended for children under 13 years of age. No one under the age of 13
+may provide any personal information to, or on, the Website. We do not knowingly collect
+personal information from children under 13. If you are under 13, do not use or provide any
+information on this Website, or on or through any of its features/functionality, make any
+purchases through the Website, use any of the interactive or public comment features that
+may be available on this Website, or provide any information about yourself to us, including
+your name, address, telephone number, e-mail address or any screen name or username
+you may use.
+
+If we learn that we have collected or received personal information from a child under 13
+without verification of parental consent, we will delete that information. If you believe we
+might have any information from or about a child under 13, please contact us at
+<app.projectq@gmail.com>.
+
+By using our site or app, you consent to our privacy policy.
+
+If you have questions or comments about this Privacy Policy, please contact us at:
+<app.projectq@gmail.com>.
