@@ -17,8 +17,8 @@
 We are currently accepting Beta testers. 
 Qualifying Beta testers must
 * Have an Apple Card
-* be using a personal finance software that can import QFX/OFX/QBO file (Quicken, Quickbook, Moneydance ...)
-* be willing to provide feedback during the beta testing cycle
+* Using a personal finance software that can import QFX/OFX/QBO file (Quicken, Quickbook, Moneydance ...)
+* Willing to provide feedback during the beta testing cycle
 
 For more information, please send an email to <app.projectq@gmail.com>.
 
