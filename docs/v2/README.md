@@ -14,8 +14,6 @@
     + [> Share](#-share)
   * [About us](#about-us)
 
-<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
-
 ## What
 This app makes it possible for Apple Card owners to generate an QFX file of their **recent ("Latest Transactions") transactions**. 
 
