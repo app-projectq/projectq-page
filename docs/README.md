@@ -57,7 +57,7 @@ A typical workflow (one that I use on a daily basis)
 	* crop out the logo's on the left side and the '>' on the right side of the list
 	* screen contrast is not too low. Increase the screen contrast value if it appears the app failed to convert text correctly.
 * Use your screenshot right away. While you can take a screenshot and open later, it is best to take a screenshot and use it right away. The Wallet "Latest Transactions" might have relative date/time text such as "2 hours ago". Those texts will have value relative to when you open the screenshot rather than at the time of the screenshot.
- 
+
 ## FAQ
 Q. **I thought Apple Wallet can export QFX file**.
 
