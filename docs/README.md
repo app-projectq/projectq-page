@@ -78,7 +78,7 @@ A. Transactions with 'Pending' are not selected because they are likely to be ch
 
 ![error](media/error.jpeg)
 
-Q. In the List view, there are red (-) and green (+) icons, what are they?
+Q. **In the List view, there are red (-) and green (+) icons, what are they**?
 
 A. Red (-) are for debits and Green (+) are for payments. 
 
