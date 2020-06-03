@@ -1,7 +1,7 @@
 # Welcome to TransactQ 
 
 ## What
-This app makes it possible for Apple Card owners to generate an QFX file of their recent ("Latest Transactions") transactions. 
+This app makes it possible for Apple Card owners to generate an QFX file of their **recent ("Latest Transactions") transactions**. 
 
 ## How
 A typical workflow (one that I use on a daily basis)
