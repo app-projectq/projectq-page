@@ -1,6 +1,7 @@
 # Welcome to TransactQ 
 
 - [Welcome to TransactQ](#welcome-to-transactq)
+   	* [Beta Testing](#beta-testing)
 	* [What](#what)
 	* [How](#how)
 		+ [Detail steps](#detail-steps)
@@ -15,14 +16,7 @@
 	* [About us](#about-us)
 	* [Privacy Policy](#privacy-policy)
 
-We are currently accepting Beta testers. 
-Qualifying Beta testers must
-* have an iOS phone running iOS 13 or above 
-* Have an Apple Card
-* Using a personal finance software that can import QFX/OFX/QBO file (Quicken, Quickbook, Moneydance ...)
-* Willing to provide feedback during the beta testing cycle. We will use TestFlight (https://developer.apple.com/testflight/), a service provided by Apple, for accessing the Beta app.
-
-For more information, please send an email to <app.projectq@gmail.com>.
+We are currently accepting Beta testers. Please see this [section](#beta-testing) for more information.
 
 ## What
 This app makes it possible for Apple Card owners to generate a QFX file of their **recent ("Latest Transactions") transactions**.
@@ -172,3 +166,13 @@ By using our site or app, you consent to our privacy policy.
 
 If you have questions or comments about this Privacy Policy, please contact us at:
 <app.projectq@gmail.com>.
+
+## Beta Testing
+We are currently accepting Beta testers. 
+Qualifying Beta testers must
+* have an iOS phone running iOS 13 or above 
+* Have an Apple Card
+* Using a personal finance software that can import QFX/OFX/QBO file (Quicken, Quickbook, Moneydance ...)
+* Willing to provide feedback during the beta testing cycle. We will use TestFlight (https://developer.apple.com/testflight/), a service provided by Apple, for accessing the Beta app.
+
+For more information, please send an email to <app.projectq@gmail.com>.
