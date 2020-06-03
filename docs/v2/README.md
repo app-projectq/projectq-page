@@ -1,18 +1,18 @@
 # Welcome to TransactQ 
 
 - [Welcome to TransactQ](#welcome-to-transactq)
-  * [What](#what)
-  * [How](#how)
-    + [Detail steps](#detail-steps)
-  * [Tips](#tips)
-  * [FAQ](#faq)
-  * [Views](#views)
-    + [> Home](#-home)
-    + [> Popup](#-popup)
-    + [> Image](#-image)
-    + [> List](#-list)
-    + [> Share](#-share)
-  * [About us](#about-us)
+  * [What](#what)
+  * [How](#how)
+    + [Detail steps](#detail-steps)
+  * [Tips](#tips)
+  * [FAQ](#faq)
+  * [Views](#views)
+    + [> Home](#-home)
+    + [> Popup](#-popup)
+    + [> Image](#-image)
+    + [> List](#-list)
+    + [> Share](#-share)
+  * [About us](#about-us)
 
 ## What
 This app makes it possible for Apple Card owners to generate a QFX file of their **recent ("Latest Transactions") transactions**. 
