@@ -14,8 +14,16 @@
     + [> Share](#-share)
   * [About us](#about-us)
 
+We are currently accepting Beta testers. 
+Qualifying Beta testers must
+* Have an Apple Card
+* be using a personal finance software that can import QFX/OFX/QBO file (Quicken, Quickbook, Moneydance ...)
+* be willing to provide feedback during the beta testing cycle
+
+For more information, please send an email to <app.projectq@gmail.com>.
+
 ## What
-This app makes it possible for Apple Card owners to generate a QFX file of their **recent ("Latest Transactions") transactions**. 
+This app makes it possible for Apple Card owners to generate a QFX file of their **recent ("Latest Transactions") transactions**.
 
 ## How
 A typical workflow (one that I use on a daily basis)
@@ -57,7 +65,7 @@ A. Currently, Apple will only export the QFX file for transactions from your mon
 
 Q. **How to contact you**?
 
-A. Email to app.projectq@gmail.com
+A. Email to <app.projectq@gmail.com>
 
 Q. **Will it work with Wallet in dark mode**?
 
