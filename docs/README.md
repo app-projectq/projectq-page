@@ -1,7 +1,7 @@
 # Welcome to TransactQ 
 
 - [Welcome to TransactQ](#welcome-to-transactq)
-   	* [Beta Testing](#beta-testing)
+	* [Beta Testing](#beta-testing)
 	* [What](#what)
 	* [How](#how)
 		+ [Detail steps](#detail-steps)
