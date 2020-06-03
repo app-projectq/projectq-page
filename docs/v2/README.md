@@ -37,29 +37,36 @@ A typical workflow (one that I use on a daily basis)
 * Use your screenshot right away. While you can take a screenshot and open later, it is best to take a screenshot and use it right away. The Wallet "Latest Transactions" might have relative date/time text such as "2 hours ago". Those texts will have value relative to when you open the image rather than at time of screenshot.
  
 ## FAQ
-Q. I thought Apple Wallet can export QFX file.
+Q. **I thought Apple Wallet can export QFX file**.
 
 A. Currently Apple will only export QFX file for transactions from your monthly statement. This means recent transactions are not available to be exported.
 
-Q. How to contact you?
+Q. **How to contact you**?
 
 A. Email to app.projectq@gmail.com
 
-Q. Will it work with Wallet in dark mode?
+Q. **Will it work with Wallet in dark mode**?
 
 A. Yes
 
-Q. Why some transactions are not selected for exported to QFX?
+Q. **Why some transactions are not selected for exported to QFX**?
 
 A. Transactions with 'Pending' are not selected because they are likely to be changed again. Just wait until those transactions are no longer 'Pending'. Also transactions with errors (you will see a small yellow 'T' to indicate error in the text portion) are not selected.
 
 ## View
 
 ### Home
+Home page. From here you can
+* Click on the (+) button to open another menu
+  * to open the Wallet app
+  * or to pick an image from your Photo
+  
 ![home](home.png)
-----
 
 ### Popup
+* Click on the left button to open the Wallet app
+* Click on the right button to pick an image from your Photo
+
 ![home_popup](home_popup.png)
 ----
 
