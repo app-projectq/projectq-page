@@ -1,50 +1,126 @@
-# Welcome to TransactQ
-### On demand Apple Card transactions to QFX converter
+# Welcome to TransactQ 
 
-TransactQ makes it possible for Apple Card owners to generate an on demand QFX file for their transactions. 
+- [Welcome to TransactQ](#welcome-to-transactq)
+  * [What](#what)
+  * [How](#how)
+    + [Detail steps](#detail-steps)
+  * [Tips](#tips)
+  * [FAQ](#faq)
+  * [Views](#views)
+    + [> Home](#-home)
+    + [> Popup](#-popup)
+    + [> Image](#-image)
+    + [> List](#-list)
+    + [> Share](#-share)
+  * [About us](#about-us)
 
-In just a few steps, you will be able to import your Apple Card transactions into your personal finance software such as Quicken. You can do this as soon as the transaction shows up in your phone Wallet. No longer you have to wait for the end-of-the-month statement.
+## What
+This app makes it possible for Apple Card owners to generate a QFX file of their **recent ("Latest Transactions") transactions**. 
 
-## To use the app
+## How
+A typical workflow (one that I use on a daily basis)
 
-### Take a screenshot
-Take a screenshot of the transactions. Crop it down to the list of transactions. Best to exclude the logo on the left side and the right arrow on the right side.
+1. Open Wallet, take a screenshot of recent transactions.
+2. Share the screenshot with 'TransactQ' app
+3. Open 'TransactQ' app
+4. Share the QFX file 
+	1. to AirDrop
+	2. to save to a file
+	3. to email as an attachment
 
-![Crop Example](media/crop.png)
-### Load screenshot
-Open app and load the screenshoot of the transactions.
+### Detail steps
+1. Open Wallet. Scroll down to the list of "Latest Transactions"
+2. Take a screenshot
+3. Crop the view to the list of transactions that you want to export. **Tip**: Make sure to crop out the logo's on the left side and the '>' on the right side.
+4. Select to "Share" the screenshot using the "square-up-arrow button" on the top right corner.
+  1. Find the 'TransactQ' icon in the second row (you might need to scroll right to find more icons). 
+  2. Click on the 'TransactQ' icon). 
+  3. Click on 'Post' to share. 
+  4. Click on 'Done' and then 'Delete Screenshot'
+5. Open 'TransactQ'
+6. You should see the screenshot you just shared.
+7. Click on the List icon on the bottom right to see the list of transactions (converted from the screenshot).
+8. Select to "Share" the list as a QFX file using the "square-up-arrow button" on the top right corner.
+9. Choose how you want to share. I usually just AirDrop it to my laptop from which I can import directly into Quicken.
 
-![Add Button](media/1.png)
-
-![Load Screenshot](media/2.png)
-
-### Screenshot loaded
-Once the screenshot is loaded, It will be processed and converted in to text. Then it will be parsed into a transaction list.
-
-![Screenshot 4](media/4.png)
-
-### View as transaction list
-
-![Screenshot 5](media/5.png)
-
-### Share
-You can share the transaction list as QFX file 
-  * send as attachement in an email
-  * save to file
-  * AirDrop to your desktop 
-
-![Screenshot 51](media/51.png)
 
 ## Tips
+* Make a good screenshot
+  * crop out the logo's on the left side and the '>' on the right side of the list
+  * screen contrast is not too low. Increase the screen contrast value if it appears the app failed to convert text correctly.
+* Use your screenshot right away. While you can take a screenshot and open later, it is best to take a screenshot and use it right away. The Wallet "Latest Transactions" might have relative date/time text such as "2 hours ago". Those texts will have value relative to when you open the screenshot rather than at the time of the screenshot.
+ 
+## FAQ
+Q. **I thought Apple Wallet can export QFX file**.
 
-* Crop the screenshot to include only the transacions. Make sure to exclude 
-  ** the logo on the left side
-  ** and the '>' characters on the right side
-* You can exclude a transaction from the OFX file by uncheck a checkmark. You might want to do that if you notice that the 
-transaction might have incorrect information.
-* If the app has problem recognizing some of the texts, increase screen brightness when taking the screenshot.
-* If there is a letter (D) next to the date. That means the date was derived from text string as such as '2 hours ago' 
-or 'Wednesday'. In such case, the date might be different depending on when you generate the OFX file. 
-![Date](media/date.png)
+A. Currently, Apple will only export the QFX file for transactions from your monthly statement. This means recent transactions are not available to be exported.
 
-[v2](v2)
+Q. **How to contact you**?
+
+A. Email to app.projectq@gmail.com
+
+Q. **Will it work with Wallet in dark mode**?
+
+A. Yes
+
+Q. **Why some transactions are not selected for export to QFX**?
+
+A. Transactions with 'Pending' are not selected because they are likely to be changed again. Just wait until those transactions are no longer 'Pending'. Also, transactions with errors (you will see a small yellow 'T' to indicate an error in the text portion) are not selected.
+
+![error](media/error.jpeg)
+
+## Views
+
+### > Home
+Home page. From here you can
+* Click on the (+) button to open another menu
+  * to open the Wallet app
+  * or to pick a screenshot from your Photo
+  
+![home](media/home.png)
+
+### > Popup
+* Click on the left button to open the Wallet app
+* Click on the right button to pick a screenshot from your Photo
+
+![home_popup](media/home_popup.png)
+
+### > Image
+The screenshot you open. Once a new screenshot is opened, this app will attempt to convert the screenshot into a list of OFX transactions. Click on the "List" icon to see the OFX transactions list.
+
+![image](media/image.png)
+
+### > List
+A list of OFX transactions converted from your screenshot. From here you can
+* Select  (checkbox) transactions to be exported.
+* Share the OFX list as QFX file.
+
+![list](media/list.png)
+
+### > Share
+Standard iOS Share screen where you can
+* AirDrop the QFX file
+* Save as a file
+* Send as an attachment in an email
+
+![share](media/share.png)
+
+## About us
+Hi there,
+
+We are a team of three: father (Hung), daughter (Amanda), and son (Chris).
+
+I work as a software engineer in Silicon Valley, and Amanda and Chris are seniors in high school.
+
+This product first started out as a one-weekend project for personal use. Then I got a few emails inquiring about it. Soon, it became quite clear that I need to treat this as a release product: it needs to be built, QA’ed, packaged, and released properly. I also need to create a web site, get the word out, handle customer emails … Then it dawned on me that this project would be a perfect vehicle to introduce my daughter and son to what it is like to create a product, market it, support it and interact with paying customers. And that is how Amanda and Chris got involved!
+
+We strive to make you a happy customer.
+
+We make sure our product is well-tested and works correctly for the first time. On our website, we clearly explain what our product does. If you have questions or concerns, we will give your email our full attention and get back to you promptly.
+
+Thank you for your support,
+
+Hung/Amanda/Chris
+
+![about](media/about.jpg)
+
