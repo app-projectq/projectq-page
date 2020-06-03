@@ -7,11 +7,11 @@
   * [Tips](#tips)
   * [FAQ](#faq)
   * [Views](#views)
-    + [> Home](#home)
-    + [> Popup](#popup)
-    + [> Image](#image)
-    + [> List](#list)
-    + [> Share](#share)
+    + [> Home](#-home)
+    + [> Popup](#-popup)
+    + [> Image](#-image)
+    + [> List](#-list)
+    + [> Share](#-share)
   * [About us](#about-us)
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
