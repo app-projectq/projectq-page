@@ -66,7 +66,7 @@ A. Yes
 Q. **Why some transactions are not selected for export to QFX**?
 
 A. Transactions with 'Pending' are not selected because they are likely to be changed again. Just wait until those transactions are no longer 'Pending'. Also, transactions with errors (you will see a small yellow 'T' to indicate an error in the text portion) are not selected.
-![error](error.png)
+![error](error.jpeg)
 
 ## Views
 
