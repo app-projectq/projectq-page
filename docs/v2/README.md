@@ -1,9 +1,9 @@
 # Welcome to TransactQ 
 
-##What
+## What
 This app makes it possible for Apple Card owners to generate an QFX file of their recent ("Latest Transactions") transactions. 
 
-##How
+## How
 A typical workflow (one that I use on a daily basis)
 
 1. Open Wallet, take a screenshot of recent transactions.
@@ -30,13 +30,13 @@ A typical workflow (one that I use on a daily basis)
 9. Choose how you want to share. I usually just AirDrop it to my laptop from which I can import directly into Quicken.
 
 
-##Tips
+## Tips
 * Make a good screenshoot
   * crop out the logo's on the left side and the '>' on the right side of the list
   * screen constrast is not too low. Increase the screen constrast value if it appears the app failed to convert text correctly.
 * Use your screenshot right away. While you can take a screenshot and open later, it is best to take a screenshot and use it right away. The Wallet "Latest Transactions" might have relative date/time text such as "2 hours ago". Those texts will have value relative to when you open the image rather than at time of screenshot.
  
-##FAQ
+## FAQ
 Q. I thought Apple Wallet can export QFX file.
 
 A. Currently Apple will only export QFX file for transactions from your monthly statement. This means recent transactions are not available to be exported.
@@ -55,23 +55,23 @@ A. Transactions with 'Pending' are not selected because they are likely to be ch
 
 ## View
 
-###Home
+### Home
 ![home](home.png)
 ----
 
-###Popup
+### Popup
 ![home_popup](home_popup.png)
 ----
 
-###Image
+### Image
 ![image](image.png)
 ----
 
-###List
+### List
 ![list](list.png)
 ----
 
-###Share
+### Share
 ![share](share.png)
 ----
 
