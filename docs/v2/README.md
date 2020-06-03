@@ -1,5 +1,21 @@
 # Welcome to TransactQ 
 
+- [Welcome to TransactQ](#welcome-to-transactq)
+  * [What](#what)
+  * [How](#how)
+    + [Detail steps](#detail-steps)
+  * [Tips](#tips)
+  * [FAQ](#faq)
+  * [Views](#views)
+    + [> Home](#home)
+    + [> Popup](#popup)
+    + [> Image](#image)
+    + [> List](#list)
+    + [> Share](#share)
+  * [About us](#about-us)
+
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+
 ## What
 This app makes it possible for Apple Card owners to generate an QFX file of their **recent ("Latest Transactions") transactions**. 
 
@@ -89,7 +105,7 @@ Standard iOS Share screen where you can
 
 ![share](share.png)
 
-## > About us
+## About us
 Hi there,
 
 We are a team of three: father (Hung), daughter (Amanda) and son (Chris).
