@@ -68,11 +68,11 @@ Home page. From here you can
 * Click on the right button to pick an image from your Photo
 
 ![home_popup](home_popup.png)
-----
 
 ### Image
+This is the image/screenshot you open. Once a new image/screenshot is opened, this app will attempt to convert the image into into a list of OFX transactions. Click on the "List" icon to see the OFX transactions list.
+
 ![image](image.png)
-----
 
 ### List
 ![list](list.png)
