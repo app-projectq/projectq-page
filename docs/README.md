@@ -83,8 +83,8 @@ A. Transactions with 'Pending' are not selected because they are likely to be ch
 Home page. From here you can
 * Click on the (+) button to open another menu
 	* to open the Wallet app
-	* or to pick a screenshot from your Photo
-  
+	* or to pick a screenshot from your Phot
+
 ![home](media/home.png)
 
 ### > Popup
