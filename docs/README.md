@@ -1,18 +1,18 @@
 # Welcome to TransactQ 
 
 - [Welcome to TransactQ](#welcome-to-transactq)
-  * [What](#what)
-  * [How](#how)
-    + [Detail steps](#detail-steps)
-  * [Tips](#tips)
-  * [FAQ](#faq)
-  * [Views](#views)
-    + [> Home](#-home)
-    + [> Popup](#-popup)
-    + [> Image](#-image)
-    + [> List](#-list)
-    + [> Share](#-share)
-  * [About us](#about-us)
+	* [What](#what)
+	* [How](#how)
+		+ [Detail steps](#detail-steps)
+	* [Tips](#tips)
+	* [FAQ](#faq)
+	* [Views](#views)
+		+ [> Home](#-home)
+		+ [> Popup](#-popup)
+		+ [> Image](#-image)
+		+ [> List](#-list)
+		+ [> Share](#-share)
+	* [About us](#about-us)
 
 We are currently accepting Beta testers. 
 Qualifying Beta testers must
@@ -41,10 +41,10 @@ A typical workflow (one that I use on a daily basis)
 2. Take a screenshot
 3. Crop the view to the list of transactions that you want to export. **Tip**: Make sure to crop out the logo's on the left side and the '>' on the right side.
 4. Select to "Share" the screenshot using the "square-up-arrow button" on the top right corner.
-  1. Find the 'TransactQ' icon in the second row (you might need to scroll right to find more icons). 
-  2. Click on the 'TransactQ' icon). 
-  3. Click on 'Post' to share. 
-  4. Click on 'Done' and then 'Delete Screenshot'
+	1. Find the 'TransactQ' icon in the second row (you might need to scroll right to find more icons). 
+	2. Click on the 'TransactQ' icon). 
+	3. Click on 'Post' to share.
+	4. Click on 'Done' and then 'Delete Screenshot'
 5. Open 'TransactQ'
 6. You should see the screenshot you just shared.
 7. Click on the List icon on the bottom right to see the list of transactions (converted from the screenshot).
@@ -54,8 +54,8 @@ A typical workflow (one that I use on a daily basis)
 
 ## Tips
 * Make a good screenshot
-  * crop out the logo's on the left side and the '>' on the right side of the list
-  * screen contrast is not too low. Increase the screen contrast value if it appears the app failed to convert text correctly.
+	* crop out the logo's on the left side and the '>' on the right side of the list
+	* screen contrast is not too low. Increase the screen contrast value if it appears the app failed to convert text correctly.
 * Use your screenshot right away. While you can take a screenshot and open later, it is best to take a screenshot and use it right away. The Wallet "Latest Transactions" might have relative date/time text such as "2 hours ago". Those texts will have value relative to when you open the screenshot rather than at the time of the screenshot.
  
 ## FAQ
@@ -82,8 +82,8 @@ A. Transactions with 'Pending' are not selected because they are likely to be ch
 ### > Home
 Home page. From here you can
 * Click on the (+) button to open another menu
-  * to open the Wallet app
-  * or to pick a screenshot from your Photo
+	* to open the Wallet app
+	* or to pick a screenshot from your Photo
   
 ![home](media/home.png)
 
