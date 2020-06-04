@@ -25,8 +25,8 @@ This app makes it possible for Apple Card owners to generate a QFX file of their
 A typical workflow (one that I use on a daily basis)
 
 1. Open Wallet, take a screenshot of recent transactions.
-2. Share the screenshot with 'TransactQ' app
-3. Open 'TransactQ' app
+2. Share the screenshot with 'TransactQ' app to convert.
+3. Open 'TransactQ' app.
 4. Share the QFX file 
 	1. to AirDrop
 	2. save to a file
