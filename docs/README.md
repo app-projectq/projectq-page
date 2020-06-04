@@ -29,8 +29,8 @@ A typical workflow (one that I use on a daily basis)
 3. Open 'TransactQ' app
 4. Share the QFX file 
 	1. to AirDrop
-	2. to save to a file
-	3. to email as an attachment
+	2. save to a file
+	3. email as an attachment
 
 ### Detail steps
 1. Open Wallet. Scroll down to the list of "Latest Transactions"
