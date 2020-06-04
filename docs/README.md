@@ -38,7 +38,7 @@ A typical workflow (one that I use on a daily basis)
 3. Crop the view to the list of transactions that you want to export. **Tip**: Make sure to crop out the logo's on the left side and the '>' on the right side.
 4. Select to "Share" the screenshot using the "square-up-arrow button" on the top right corner.
 	1. Find the 'TransactQ' icon in the second row (you might need to scroll right to find more icons). 
-	2. Click on the 'TransactQ' icon). 
+	2. Click on the 'TransactQ' icon. 
 	3. Click on 'Post' to share.
 	4. Click on 'Done' and then 'Delete Screenshot'
 5. Open 'TransactQ'
