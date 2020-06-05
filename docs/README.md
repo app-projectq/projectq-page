@@ -115,8 +115,6 @@ Standard iOS Share screen where you can
 * Save as a file
 * Send as an attachment in an email
 
-![share](media/share.png)
-
 ## About us
 Hi there,
 
