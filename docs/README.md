@@ -6,7 +6,7 @@
 	* [Beta Testing](#beta-testing)
 	* [What](#what)
 	* [How](#how)
-		+ [Detail steps](#detail-steps)
+		+ [Step by step](#step-by-step)
 	* [Tips](#tips)
 	* [FAQ](#faq)
 	* [Views](#views)
@@ -34,16 +34,16 @@ A typical workflow (one that I use on a daily basis)
 	- save to a file
 	- email as an attachment
 
-### Detail steps
+### Step by step
 1. ![wallet icon](media/wallet.png) Open Wallet. Scroll down to the list of "Latest Transactions"
 2. Take a screenshot
 3. Crop the view to the list of transactions that you want to export. **Tip**: Make sure to crop out the logo's on the left side and the '>' on the right side.
 4. Select to "Share" the screenshot using the ![share icon](media/share.png) button on the top right corner.
-	1. ![](media/transactq.png) Find the 'TransactQ' icon in the second row (you might need to scroll right to find more icons). 
+	1. Find the 'TransactQ' icon ![app icon](media/transactq.png) in the second row (you might need to scroll right to find more icons). 
 	2. Click on the 'TransactQ' icon. 
 	3. Click on 'Post' to share.
 	4. Click on 'Done' and then 'Delete Screenshot'
-5. ![](media/transactq.png) Open 'TransactQ'
+5. Open 'TransactQ' ![app icon](media/transactq.png) 
 6. You should see the screenshot you just shared.
 7. Click on the List icon on the bottom right to see the list of transactions (converted from the screenshot).
 8. Select to "Share" the list as a QFX file using the ![share icon](media/share.png) button on the top right corner.
