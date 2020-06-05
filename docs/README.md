@@ -175,7 +175,7 @@ Qualifying Beta testers must
 
 * have an iOS phone running iOS 13 or above 
 * have an Apple Card
-* using a personal finance software that can import QFX/OFX/QBO file (Quicken, Quickbook, Moneydance ...)
+* using a personal finance software that can import QFX/OFX/QBO file (Quicken, Quickbook, Moneydance, Expensify ...)
 * willing to provide feedback during the beta testing cycle. We will use TestFlight (https://developer.apple.com/testflight/), a service provided by Apple, for accessing the Beta app.
 
 For more information, please send an email to <app.projectq@gmail.com>.
