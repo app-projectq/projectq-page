@@ -26,19 +26,19 @@ This app makes it possible for Apple Card owners to generate a QFX file of their
 ## How
 A typical workflow (one that I use on a daily basis)
 
-1. ![](media/wallet.png) Open Wallet, take a screenshot of recent transactions.
-2. ![](media/share.png) Share the screenshot with 'TransactQ' app to convert.
-3. ![](media/transactq.png) Open 'TransactQ' app.
-4. ![](media/share.png) Share the QFX file 
+1. ![wallet icon](media/wallet.png) Open Wallet, take a screenshot of recent transactions.
+2. ![share icon](media/share.png) Share the screenshot with 'TransactQ' app to convert.
+3. ![app icon](media/transactq.png) Open 'TransactQ' app.
+4. ![share icon](media/share.png) Share the QFX file 
 	- to AirDrop
 	- save to a file
 	- email as an attachment
 
 ### Detail steps
-1. ![](media/wallet.png) Open Wallet. Scroll down to the list of "Latest Transactions"
+1. ![wallet icon](media/wallet.png) Open Wallet. Scroll down to the list of "Latest Transactions"
 2. Take a screenshot
 3. Crop the view to the list of transactions that you want to export. **Tip**: Make sure to crop out the logo's on the left side and the '>' on the right side.
-4. ![](media/share.png) Select to "Share" the screenshot using the "square-up-arrow button" on the top right corner.
+4. Select to "Share" the screenshot using the ![share icon](media/share.png) button on the top right corner.
 	1. ![](media/transactq.png) Find the 'TransactQ' icon in the second row (you might need to scroll right to find more icons). 
 	2. Click on the 'TransactQ' icon. 
 	3. Click on 'Post' to share.
@@ -46,7 +46,7 @@ A typical workflow (one that I use on a daily basis)
 5. ![](media/transactq.png) Open 'TransactQ'
 6. You should see the screenshot you just shared.
 7. Click on the List icon on the bottom right to see the list of transactions (converted from the screenshot).
-8. ![](media/share.png) Select to "Share" the list as a QFX file using the "square-up-arrow button" on the top right corner.
+8. Select to "Share" the list as a QFX file using the ![share icon](media/share.png) button on the top right corner.
 9. Choose how you want to share. I usually just AirDrop it to my laptop from which I can import directly into Quicken.
 
 
