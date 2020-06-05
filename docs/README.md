@@ -1,4 +1,6 @@
-# Welcome to TransactQ 
+![icon](media/Icon-App-76x76@2x.png)
+
+# Welcome to TransactQ
 
 - [Welcome to TransactQ](#welcome-to-transactq)
 	* [Beta Testing](#beta-testing)
@@ -24,27 +26,27 @@ This app makes it possible for Apple Card owners to generate a QFX file of their
 ## How
 A typical workflow (one that I use on a daily basis)
 
-1. Open Wallet, take a screenshot of recent transactions.
-2. Share the screenshot with 'TransactQ' app to convert.
-3. Open 'TransactQ' app.
-4. Share the QFX file 
-	1. to AirDrop
-	2. save to a file
-	3. email as an attachment
+1. ![](media/wallet.png) Open Wallet, take a screenshot of recent transactions.
+2. ![](media/share.png) Share the screenshot with 'TransactQ' app to convert.
+3. ![](media/transactq.png) Open 'TransactQ' app.
+4. ![](media/share.png) Share the QFX file 
+	- to AirDrop
+	- save to a file
+	- email as an attachment
 
 ### Detail steps
-1. Open Wallet. Scroll down to the list of "Latest Transactions"
+1. ![](media/wallet.png) Open Wallet. Scroll down to the list of "Latest Transactions"
 2. Take a screenshot
 3. Crop the view to the list of transactions that you want to export. **Tip**: Make sure to crop out the logo's on the left side and the '>' on the right side.
-4. Select to "Share" the screenshot using the "square-up-arrow button" on the top right corner.
-	1. Find the 'TransactQ' icon in the second row (you might need to scroll right to find more icons). 
+4. ![](media/share.png) Select to "Share" the screenshot using the "square-up-arrow button" on the top right corner.
+	1. ![](media/transactq.png) Find the 'TransactQ' icon in the second row (you might need to scroll right to find more icons). 
 	2. Click on the 'TransactQ' icon. 
 	3. Click on 'Post' to share.
 	4. Click on 'Done' and then 'Delete Screenshot'
-5. Open 'TransactQ'
+5. ![](media/transactq.png) Open 'TransactQ'
 6. You should see the screenshot you just shared.
 7. Click on the List icon on the bottom right to see the list of transactions (converted from the screenshot).
-8. Select to "Share" the list as a QFX file using the "square-up-arrow button" on the top right corner.
+8. ![](media/share.png) Select to "Share" the list as a QFX file using the "square-up-arrow button" on the top right corner.
 9. Choose how you want to share. I usually just AirDrop it to my laptop from which I can import directly into Quicken.
 
 
@@ -81,9 +83,11 @@ A. Red (-) are for debits and Green (+) are for payments.
 
 ### > Home
 Home page. From here you can
-* Click on the (+) button to open another menu
+
+* Click on the (+) button to popup the menu
 	* to open the Wallet app
 	* or to pick a screenshot from your Phot
+* Click on the (+) button again to popdown the menu
 
 ![home](media/home.png)
 
@@ -170,6 +174,7 @@ If you have questions or comments about this Privacy Policy, please contact us a
 ## Beta Testing
 We are currently accepting Beta testers. 
 Qualifying Beta testers must
+
 * have an iOS phone running iOS 13 or above 
 * have an Apple Card
 * using a personal finance software that can import QFX/OFX/QBO file (Quicken, Quickbook, Moneydance ...)
