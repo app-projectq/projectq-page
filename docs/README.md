@@ -3,7 +3,6 @@
 # Welcome to TransactQ
 
 - [Welcome to TransactQ](#welcome-to-transactq)
-	* [Beta Testing](#beta-testing)
 	* [What](#what)
 	* [How](#how)
 		+ [Step by step](#step-by-step)
@@ -17,8 +16,6 @@
 		+ [> Share](#-share)
 	* [About us](#about-us)
 	* [Privacy Policy](#privacy-policy)
-
-We are currently accepting Beta testers. Please see this [section](#beta-testing) for more information.
 
 ## What
 This app makes it possible for Apple Card owners to generate a QFX file of their **recent ("Latest Transactions") transactions**.
@@ -55,6 +52,9 @@ A typical workflow (one that I use on a daily basis)
 	* crop out the logo's on the left side and the '>' on the right side of the list
 	* screen contrast is not too low. Increase the screen contrast value if it appears the app failed to convert text correctly.
 * Use your screenshot right away. While you can take a screenshot and open later, it is best to take a screenshot and use it right away. The Wallet "Latest Transactions" might have relative date/time text such as "2 hours ago". Those texts will have value relative to when you open the screenshot rather than at the time of the screenshot.
+
+### Cropping the transaction list
+![cropping](media/wallet.gif)
 
 ## FAQ
 Q. **I thought Apple Wallet can export QFX file**.
@@ -168,14 +168,3 @@ By using our site or app, you consent to our privacy policy.
 
 If you have questions or comments about this Privacy Policy, please contact us at:
 <app.projectq@gmail.com>.
-
-## Beta Testing
-We are currently accepting Beta testers. 
-Qualifying Beta testers must
-
-* have an iOS phone running iOS 13 or above 
-* have an Apple Card
-* using a personal finance software that can import QFX/OFX/QBO file (Quicken, Quickbook, Moneydance, Expensify ...)
-* willing to provide feedback during the beta testing cycle. We will use TestFlight (https://developer.apple.com/testflight/), a service provided by Apple, for accessing the Beta app.
-
-For more information, please send an email to <app.projectq@gmail.com>.
