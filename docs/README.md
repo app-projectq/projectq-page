@@ -18,6 +18,8 @@
 	* [Privacy Policy](#privacy-policy)
 
 ## What
+Tired of waiting until the end of the month for your Apple Card QFX/QBO/OFX file?
+Wait no more.
 This app makes it possible for Apple Card owners to generate a QFX file of their **recent ("Latest Transactions") transactions**.
 
 ## How
