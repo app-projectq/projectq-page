@@ -8,12 +8,6 @@
 		+ [Step by step](#step-by-step)
 	* [Tips](#tips)
 	* [FAQ](#faq)
-	* [Views](#views)
-		+ [> Home](#-home)
-		+ [> Popup](#-popup)
-		+ [> Image](#-image)
-		+ [> List](#-list)
-		+ [> Share](#-share)
 	* [About us](#about-us)
 	* [Privacy Policy](#privacy-policy)
 
