@@ -1,6 +1,6 @@
 ![icon](../media/Icon-App-76x76@2x.png)
 
-# Welcome to TransactQ
+# Welcome to TransactQ (MacOS version)
 
 - [Welcome to TransactQ](#welcome-to-transactq)
 	* [What](#what)
@@ -23,31 +23,20 @@ Wait no more.
 This app makes it possible for Apple Card owners to generate a QFX file of their **recent ("Latest Transactions") transactions**.
 
 ## How
-A typical workflow (one that I use on a daily basis)
+A typical workflow
 
-1. ![wallet icon](../media/wallet.png) Open Wallet, take a screenshot of recent transactions.
-2. ![share icon](../media/share.png) Share the screenshot with 'TransactQ' app to convert.
-3. ![app icon](../media/transactq.png) Open 'TransactQ' app.
-4. ![share icon](../media/share.png) Share the QFX file 
-	- to AirDrop
-	- save to a file
-	- email as an attachment
+1. ![wallet icon](../media/wallet.png) On iPhone, open Wallet, take a screenshot of recent transactions.
+2. ![share icon](../media/share.png) Share (save/airdrop) the screenshot to your laptop
+3. ![app icon](../media/transactq.png) Open 'TransactQ' app. Drag-and-drop screenshot onto the app main window.
+4. Open the generated file to import transacions into your personal finance software (such as Quicken)
 
 ### Step by step
 1. ![wallet icon](../media/wallet.png) Open Wallet. Scroll down to the list of "Latest Transactions"
 2. Take a screenshot
 3. Crop the view to the list of transactions that you want to export. **Tip**: Make sure to crop out the logo's on the left side and the '>' on the right side.
-4. Select to "Share" the screenshot using the ![share icon](../media/share.png) button on the top right corner.
-	1. Find the 'TransactQ' icon ![app icon](../media/transactq.png) in the second row (you might need to scroll right to find more icons). 
-	2. Click on the 'TransactQ' icon. 
-	3. Click on 'Post' to share.
-	4. Click on 'Done' and then 'Delete Screenshot'
-5. Open 'TransactQ' ![app icon](../media/transactq.png) 
-6. You should see the screenshot you just shared.
-7. Click on the List icon on the bottom right to see the list of transactions (converted from the screenshot).
-8. Select to "Share" the list as a QFX file using the ![share icon](../media/share.png) button on the top right corner.
-9. Choose how you want to share. I usually just AirDrop it to my laptop from which I can import directly into Quicken.
-
+4. Select to "Share" the screenshot using the ![share icon](../media/share.png) button on the top right corner to get your screenshot to your laptop.
+5. ![app icon](../media/transactq.png) Open 'TransactQ' app. Drag-and-drop screenshot onto the app main window.
+6. Use button "Show" or "Open" to open the generated file to import your transactions into your personal finance software (such as Quicken)
 
 ## Tips
 * Make a good screenshot
@@ -73,49 +62,7 @@ A. Yes
 
 Q. **Why some transactions are not selected for export to QFX**?
 
-A. Transactions with 'Pending' are not selected because they are likely to be changed again. Just wait until those transactions are no longer 'Pending'. Also, transactions with errors (you will see a small yellow 'T' to indicate an error in the text portion) are not selected.
-
-![error](../media/error.jpeg)
-
-Q. **In the List view, there are red (-) and green (+) icons, what are they**?
-
-A. Red (-) are for debits and Green (+) are for payments. 
-
-## Views
-
-### > Home
-Home page. From here you can
-
-* Click on the (+) button to popup the menu
-	* to open the Wallet app
-	* or to pick a screenshot from your Phot
-* Click on the (+) button again to popdown the menu
-
-![home](../media/home.png)
-
-### > Popup
-* Click on the left button to open the Wallet app
-* Click on the right button to pick a screenshot from your Photo
-
-![home_popup](../media/home_popup.png)
-
-### > Image
-The screenshot you open. Once a new screenshot is opened, this app will attempt to convert the screenshot into a list of OFX transactions. Click on the "List" icon to see the OFX transactions list.
-
-![image](../media/image.png)
-
-### > List
-A list of OFX transactions converted from your screenshot. From here you can
-* Select  (checkbox) transactions to be exported.
-* Share the OFX list as QFX file.
-
-![list](../media/list.png)
-
-### > Share
-Standard iOS Share screen where you can
-* AirDrop the QFX file
-* Save as a file
-* Send as an attachment in an email
+A. Transactions with 'Pending' are not selected because they are likely to be changed again. Just wait until those transactions are no longer 'Pending'.
 
 ## About us
 Hi there,
