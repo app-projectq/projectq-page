@@ -62,6 +62,12 @@ A typical workflow (one that I use on a daily basis)
 ![cropping](media/wallet.gif)
 
 ## FAQ
+Q. **How to download from App Store**
+
+A. [App Store link](https://apps.apple.com/us/app/transactq-apple-card-to-qfx/id1515157920?mt=8)
+
+{% include_relative itunes.html %}
+
 Q. **I thought Apple Wallet can export QFX file**.
 
 A. Currently, Apple will only export the QFX file for transactions from your monthly statement. This means recent transactions are not available to be exported.
