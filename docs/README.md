@@ -18,6 +18,8 @@
 	* [Privacy Policy](#privacy-policy)
 - [MacOS version](macos/)
 
+{% include_relative itunes.html %}
+
 ## What
 Tired of waiting until the end of the month for your Apple Card QFX/QBO/OFX file?
 Wait no more.
