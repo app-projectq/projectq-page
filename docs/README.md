@@ -16,7 +16,7 @@
 		+ [> Share](#-share)
 	* [About us](#about-us)
 	* [Privacy Policy](#privacy-policy)
-- [For MacOS version](macos/)
+- [MacOS version](macos/)
 
 ## What
 Tired of waiting until the end of the month for your Apple Card QFX/QBO/OFX file?
