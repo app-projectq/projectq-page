@@ -24,6 +24,8 @@ A typical workflow
 3. ![app icon](../media/transactq.png) Open 'TransactQ' app. Drag-and-drop screenshot onto the app main window.
 4. Open the generated file to import transacions into your personal finance software (such as Quicken)
 
+{% include_relative  youtubePlayer.html %}
+
 ### Step by step
 1. ![wallet icon](../media/wallet.png) Open Wallet. Scroll down to the list of "Latest Transactions"
 2. Take a screenshot
