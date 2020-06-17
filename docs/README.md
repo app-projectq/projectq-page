@@ -18,12 +18,12 @@
 	* [Privacy Policy](#privacy-policy)
 - [MacOS version](macos/)
 
-{% include_relative itunes.html %}
-
 ## What
 Tired of waiting until the end of the month for your Apple Card QFX/QBO/OFX file?
 Wait no more.
 This app makes it possible for Apple Card owners to generate a QFX file of their **recent ("Latest Transactions") transactions**.
+
+{% include_relative itunes.html %}
 
 ## How
 A typical workflow (one that I use on a daily basis)
@@ -83,6 +83,9 @@ A. Transactions with 'Pending' are not selected because they are likely to be ch
 Q. **In the List view, there are red (-) and green (+) icons, what are they**?
 
 A. Red (-) are for debits and Green (+) are for payments. 
+
+
+{% include_relative itunes.html %}
 
 ## Views
 
@@ -173,3 +176,7 @@ By using our site or app, you consent to our privacy policy.
 
 If you have questions or comments about this Privacy Policy, please contact us at:
 <app.projectq@gmail.com>.
+
+
+{% include_relative itunes.html %}
+
