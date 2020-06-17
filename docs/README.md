@@ -91,8 +91,6 @@ Q. **In the List view, there are red (-) and green (+) icons, what are they**?
 A. Red (-) are for debits and Green (+) are for payments. 
 
 
-{% include_relative itunes.html %}
-
 ## Views
 
 ### > Home
