@@ -12,8 +12,6 @@
 	* [Privacy Policy](#privacy-policy)
 - [iOS version](../)
 
-MacOS version is currently in Beta Testing.
-
 ## What
 Tired of waiting until the end of the month for your Apple Card QFX/QBO/OFX file?
 Wait no more.
