@@ -10,7 +10,7 @@
 	* [FAQ](#faq)
 	* [About us](#about-us)
 	* [Privacy Policy](#privacy-policy)
-- [iOS version](/)
+- [iOS version](../)
 
 MacOS version is currently in Beta Testing.
 
