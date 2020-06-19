@@ -1,6 +1,6 @@
 ![icon](../media/Icon-App-76x76@2x.png)
 
-# Welcome to TransactQ (MacOS version)
+# Welcome to TransactQ (macOS version)
 
 - [Welcome to TransactQ](#welcome-to-transactq)
 	* [What](#what)
