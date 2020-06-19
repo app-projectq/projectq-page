@@ -26,7 +26,7 @@ This app makes it possible for Apple Card owners to generate a QFX file of their
 {% include_relative itunes.html %}
 
 ## How
-A typical workflow (one that I use on a daily basis)
+A typical workflow
 
 1. ![wallet icon](media/wallet.png) Open Wallet, take a screenshot of recent transactions.
 2. ![share icon](media/share.png) Share the screenshot with 'TransactQ' app to convert.
