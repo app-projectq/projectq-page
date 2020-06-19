@@ -19,6 +19,8 @@ Tired of waiting until the end of the month for your Apple Card QFX/QBO/OFX file
 Wait no more.
 This app makes it possible for Apple Card owners to generate a QFX file of their **recent ("Latest Transactions") transactions**.
 
+{% include_relative itunes.html %}
+
 ## How
 A typical workflow
 
@@ -47,6 +49,12 @@ A typical workflow
 ![cropping](../media/wallet.gif)
 
 ## FAQ
+Q. **How to download from App Store**
+
+A. [App Store link](https://apps.apple.com/us/app/transactq-qfx-converter/id1518836785?mt=12)
+
+{% include_relative itunes.html %}
+
 Q. **I thought Apple Wallet can export QFX file**.
 
 A. Currently, Apple will only export the QFX file for transactions from your monthly statement. This means recent transactions are not available to be exported.
@@ -116,3 +124,5 @@ By using our site or app, you consent to our privacy policy.
 
 If you have questions or comments about this Privacy Policy, please contact us at:
 <app.projectq@gmail.com>.
+
+{% include_relative itunes.html %}
