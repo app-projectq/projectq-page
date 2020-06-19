@@ -23,7 +23,7 @@ This app makes it possible for Apple Card owners to generate a QFX file of their
 A typical workflow
 
 1. ![wallet icon](../media/wallet.png) On iPhone, open Wallet, take a screenshot of recent transactions.
-2. ![share icon](../media/share.png) Share (save/airdrop) the screenshot to your laptop
+2. ![share icon](../media/share.png) Share (save/AirDrop) the screenshot to your laptop
 3. ![app icon](../media/transactq.png) Open 'TransactQ' app. Drag-and-drop screenshot onto the app main window.
 4. Open the generated file to import transacions into your personal finance software (such as Quicken)
 
