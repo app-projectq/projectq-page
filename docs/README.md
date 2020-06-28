@@ -149,7 +149,7 @@ Hung/Amanda/Chris
 ## Privacy Policy
 TransactQ (“we” or “us” or “our”) respects the privacy of our users (“user” or “you”). This
 Privacy Policy explains how we collect, use, disclose, and safeguard your information when
-you use our mobile application (the “App”) or our website https://app-projectq.github.io/projectq-page/
+you use our application (the “App”) or our website https://app-projectq.github.io/projectq-page/
 (collectively, the “Site”). Please read this Privacy Policy carefully. IF YOU
 DO NOT AGREE WITH THE TERMS OF THIS PRIVACY POLICY, PLEASE DO NOT ACCESS
 THE APP.
@@ -158,8 +158,8 @@ We reserve the right to make changes to this Privacy Policy at any time and for 
 
 We do not collect information about you. The screenshot you open in our app is kept locally on your device. The generated QFX file is also kept locally on your device.
 
-We may request access or permission to certain features from your mobile device, including
-your mobile photo, and other features. If you wish to change our access or
+We may request access or permission to certain features from your device, including
+your photo, and other features. If you wish to change our access or
 permissions, you may do so in your device’s settings.
 
 Our app is not intended for children under 13 years of age. No one under the age of 13
