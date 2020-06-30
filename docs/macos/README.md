@@ -124,3 +124,6 @@ If you have questions or comments about this Privacy Policy, please contact us a
 <app.projectq@gmail.com>.
 
 {% include_relative itunes.html %}
+
+### Trademarks notice
+All product names, trademarks and registered trademarks are property of their respective owners. All company, product and service names used in this website are for identification purposes only. Use of these names,trademarks and brands does not imply endorsement.
